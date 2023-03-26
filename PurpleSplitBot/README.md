@@ -17,7 +17,7 @@ xlmdeobfuscator -x -f PurpleSlipBot.xlsb
 ![flag](img/flag.png)
 
 # Quelques précision et liens
-Ce fichier est un fichier utilisé par **Qakbot**, avant quakbot était appelé purple slip bot
+Ce fichier est un fichier utilisé par **Qakbot**, avant quakbot était appelé purple split bot
 
 Liens qui m'ont permis de résoudre le challenge :
 - https://www.virusbulletin.com/virusbulletin/2021/02/excel-formulamacro-xlsb/
