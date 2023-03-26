@@ -20,6 +20,6 @@ xlmdeobfuscator -x -f PurpleSlipBot.xlsb
 Ce fichier est un fichier utilisé par **Qakbot**, avant quakbot était appelé purple slip bot
 
 Liens qui m'ont permis de résoudre le challenge :
-https://www.virusbulletin.com/virusbulletin/2021/02/excel-formulamacro-xlsb/
-https://www.hornetsecurity.com/en/threat-research/qakbot-distributed-by-xlsb-files/
-https://isc.sans.edu/diary/XLSB+Files+Because+Binary+is+Stealthier+Than+XML/28476
+- https://www.virusbulletin.com/virusbulletin/2021/02/excel-formulamacro-xlsb/
+- https://www.hornetsecurity.com/en/threat-research/qakbot-distributed-by-xlsb-files/
+- https://isc.sans.edu/diary/XLSB+Files+Because+Binary+is+Stealthier+Than+XML/28476
